@@ -88,9 +88,6 @@ Auth-JWT-Bcrypt-II
 - Proper error handling is implemented to provide meaningful feedback.
 - The project uses EJS for server-side rendering of HTML views.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
